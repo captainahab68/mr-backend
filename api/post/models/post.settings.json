@@ -31,12 +31,11 @@
     "Collab": {
       "type": "boolean"
     },
-    "users_permissions_user": {
-      "plugin": "users-permissions",
-      "model": "user"
-    },
     "items": {
       "collection": "item"
+    },
+    "Author": {
+      "type": "string"
     }
   }
 }
